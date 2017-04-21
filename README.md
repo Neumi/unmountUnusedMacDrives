@@ -7,3 +7,9 @@ This sctipt unmounts the second harddrive to save my battery power.
 just execute this script with <code>sh unmountHDD.sh</code> to unmount the second hard drive wich are not boot-HDDs to save battery power on macbooks.
 
 Works for me. -hope it does for you too.
+
+
+
+```
+sh unmountHDD.sh
+```  
